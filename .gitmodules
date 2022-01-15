@@ -8,6 +8,10 @@
 [submodule "alesia"]
 	path = alesia
 	url = https://github.com/devOpifex/alesia
+[submodule "alter"]
+	path = alter
+	url = https://github.com/devOpifex/alter
+	registered = false
 [submodule "ambiorix"]
 	path = ambiorix
 	url = https://github.com/devOpifex/ambiorix
