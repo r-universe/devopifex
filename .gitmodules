@@ -8,3 +8,8 @@
 	url = https://github.com/devopifex/erratum
 	shallow = true
 	registered = true
+[submodule "log"]
+	path = log
+	url = https://github.com/devopifex/log
+	shallow = true
+	registered = true

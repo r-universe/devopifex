@@ -2,5 +2,9 @@
   {
     "package": "erratum",
     "oncran": true
+  },
+  {
+    "package": "log",
+    "oncran": true
   }
 ]
