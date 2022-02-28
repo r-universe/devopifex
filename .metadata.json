@@ -1,5 +1,9 @@
 [
   {
+    "package": "ambiorix",
+    "oncran": true
+  },
+  {
     "package": "erratum",
     "oncran": true
   },
