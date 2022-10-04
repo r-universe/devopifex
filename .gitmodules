@@ -3,16 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "ambiorix"]
-	path = ambiorix
-	url = https://github.com/devopifex/ambiorix
-	shallow = true
-	registered = true
-[submodule "erratum"]
-	path = erratum
-	url = https://github.com/devopifex/erratum
-	shallow = true
-	registered = true
 [submodule "log"]
 	path = log
 	url = https://github.com/devopifex/log
