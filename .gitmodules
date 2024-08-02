@@ -1,7 +1,52 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/devopifex/devopifex.r-universe.dev
 	branch = HEAD
-[submodule "log"]
-	path = log
-	url = https://github.com/devopifex/log
+[submodule "agris"]
+	path = agris
+	url = https://github.com/devOpifex/agris
+[submodule "alesia"]
+	path = alesia
+	url = https://github.com/devOpifex/alesia
+[submodule "ambiorix"]
+	path = ambiorix
+	url = https://github.com/devOpifex/ambiorix
+[submodule "ambiorix/surf"]
+	path = ambiorix/surf
+	url = https://github.com/devOpifex/surf
+[submodule "artifex"]
+	path = artifex
+	url = https://github.com/devOpifex/artifex
+[submodule "communicate"]
+	path = communicate
+	url = https://github.com/devOpifex/communicate
+[submodule "component"]
+	path = component
+	url = https://github.com/devOpifex/component
+[submodule "druid"]
+	path = druid
+	url = https://github.com/devOpifex/druid
+[submodule "eburones"]
+	path = eburones
+	url = https://github.com/devOpifex/eburones
+[submodule "erratum"]
+	path = erratum
+	url = https://github.com/devOpifex/erratum
+[submodule "g2r"]
+	path = g2r
+	url = https://github.com/devOpifex/g2r
+[submodule "jader"]
+	path = jader
+	url = https://github.com/devOpifex/jader
+[submodule "litter"]
+	path = litter
+	url = https://github.com/devOpifex/litter
+[submodule "scilis"]
+	path = scilis
+	url = https://github.com/devOpifex/scilis
+[submodule "signaculum"]
+	path = signaculum
+	url = https://github.com/devOpifex/signaculum
+[submodule "windy"]
+	path = windy
+	url = https://github.com/devOpifex/windy
