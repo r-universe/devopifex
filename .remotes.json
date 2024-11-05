@@ -4,11 +4,5 @@
     "url": "https://github.com/devOpifex/alter",
     "via": ["g2r"],
     "from": "g2r"
-  },
-  {
-    "package": "scilis",
-    "url": "https://github.com/devOpifex/scilis",
-    "via": ["eburones"],
-    "from": "eburones"
   }
 ]
