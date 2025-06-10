@@ -24,6 +24,9 @@
 [submodule "litter"]
 	path = litter
 	url = https://github.com/devOpifex/litter
+[submodule "mcpr"]
+	path = mcpr
+	url = https://github.com/devOpifex/mcpr
 [submodule "scilis"]
 	path = scilis
 	url = https://github.com/devOpifex/scilis
