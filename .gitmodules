@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/devopifex/devopifex.r-universe.dev
 	branch = HEAD
-[submodule "alter"]
-	path = alter
-	url = https://github.com/devOpifex/alter
-	registered = false
 [submodule "communicate"]
 	path = communicate
 	url = https://github.com/devOpifex/communicate
